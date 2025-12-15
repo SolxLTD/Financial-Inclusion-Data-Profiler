@@ -6,4 +6,8 @@ seaborn
 ydata-profiling
 streamlit
 
+
 joblib
+streamlit
+ydata-profiling
+setuptools
