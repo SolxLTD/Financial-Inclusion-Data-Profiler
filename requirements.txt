@@ -7,10 +7,15 @@ ydata-profiling
 streamlit
 
 faker
-sdv
+
+sdv==1.12.0
+
+
+
 joblib
 streamlit
 ydata-profiling
 setuptools
+
 
 
