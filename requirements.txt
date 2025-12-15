@@ -6,8 +6,10 @@ seaborn
 ydata-profiling
 streamlit
 
+faker
 
 joblib
 streamlit
 ydata-profiling
 setuptools
+
