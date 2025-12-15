@@ -7,9 +7,10 @@ ydata-profiling
 streamlit
 
 faker
-
+sdv
 joblib
 streamlit
 ydata-profiling
 setuptools
+
 
